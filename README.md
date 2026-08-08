@@ -2,6 +2,9 @@
 
 轻量网页街机合集：回声网格、轨道切片、色相对决、脉冲节拍。
 
+- 在线演示：https://az0998.github.io/playfield/
+- 源码仓库：https://github.com/Az0998/playfield
+
 ## 本地开发
 
 ```bash
